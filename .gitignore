@@ -1,0 +1,10 @@
+# TypeScript source maps
+*.js.map
+
+# TypeScript cache
+*.ts.cache
+
+# Node.js
+node_modules/
+
+dist
